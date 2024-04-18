@@ -1,0 +1,18 @@
+html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>site laura </title>
+    <link rel="stylesheet" href="style.css">
+ <body>
+   <header>
+    <h1>aqui vai ser uma viagem</h1>
+    <ul>
+         <li>estudante</li>
+         <li>escola</li>
+
+
+    </ul>
+</header>
+</body>
+</html>
